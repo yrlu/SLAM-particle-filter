@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{thrun2002robotic}
+{\sc Thrun, S., et~al.}
+\newblock Robotic mapping: A survey.
+\newblock {\em Exploring artificial intelligence in the new millennium 1\/}
+  (2002), 1--35.
+
+\bibitem{thrun2001robust}
+{\sc Thrun, S., Fox, D., Burgard, W., and Dellaert, F.}
+\newblock Robust monte carlo localization for mobile robots.
+\newblock {\em Artificial intelligence 128}, 1 (2001), 99--141.
+
+\end{thebibliography}
