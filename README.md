@@ -1,4 +1,4 @@
-## UPenn ESE 650 Learning in Robotics, Project 4: Simultaneous Localization And Mapping (SLAM)
+## UPenn ESE 650 Learning in Robotics, Project 4: Particle-filter based Simultaneous Localization And Mapping (SLAM)
 
 ### By Max Lu
 
