@@ -1,6 +1,14 @@
-## UPenn ESE 650 Learning in Robotics, Project 4: Particle-filter based Simultaneous Localization And Mapping (SLAM)
+## Particle-filter based Simultaneous Localization And Mapping (SLAM)
 
-### By Max Lu
+<img width="400" style="float: left;" src="report/results/train3.jpg">
 
-1. Please check slam_2.m and ground_detection.m
-2. The project description is available at <https://github.com/stormmax/SLAM/blob/master/report/project4_luyiren.pdf>
+<img width="400" style="float: left;" src="report/results/test_ground_d.jpg">
+
+UPenn ESE 650 Learning in Robotics, Project 4: Particle-filter based 2D SLAM.
+
+- The project description is at [report/project4_luyiren.pdf](report/project4_luyiren.pdf)
+
+### Code
+
+- `slam_2.m`: SLAM code
+- `ground_detection.m`: ground detection code
