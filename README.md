@@ -1,8 +1,7 @@
 ## Particle-filter based Simultaneous Localization And Mapping (SLAM)
 
-<img width="400" style="float: left;" src="report/results/train3.jpg">
-
-<img width="400" style="float: left;" src="report/results/test_ground_d.jpg">
+<img width="350" style="float: left;" src="report/results/train3.jpg">
+<img width="350" style="float: left;" src="report/results/test_ground_d.jpg">
 
 UPenn ESE 650 Learning in Robotics, Project 4: Particle-filter based 2D SLAM.
 
